@@ -1,0 +1,2 @@
+ContainerTool=docker
+AutomationTool=Ansible
